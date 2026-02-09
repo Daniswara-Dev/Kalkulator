@@ -1,2 +1,2 @@
 # Kalkulator
-Tugas kalkulator dari Pak Luthfi
+Tugas Membuat Kalkulator
